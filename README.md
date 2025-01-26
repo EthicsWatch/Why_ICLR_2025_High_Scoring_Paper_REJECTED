@@ -16,7 +16,10 @@ In 2024, a massive academic scandal rocked the artificial intelligence research 
 2024年，一场巨大的学术丑闻震动了人工智能研究界。
 
 Professor Li Chongyi of Nankai University and his collaborators at Nanyang Technological University manipulated the ICLR 2024 paper review system to give their own papers disproportionately high scores.
-南开大学李重仪教授及其在南洋理工大学的合作者利用ICLR 2024的论文审稿系统，给自己的论文打了不成比例的高分。
+南开大学李重仪教授及其在南洋理工大学的合作者利用ICLR 2024的论文审稿系统，给自己的论文打了不成比例的高分。咱长得帅就是可以为所欲为。
+
+![image](https://github.com/user-attachments/assets/0ee8a2d4-3487-4b54-98d3-cd826b9ef5e2)
+
 
 ![image](https://github.com/user-attachments/assets/1efc92fd-b8e1-4ec3-a4bb-a99c68d8f7d4)
 
