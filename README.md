@@ -18,6 +18,18 @@ In 2024, a massive academic scandal rocked the artificial intelligence research 
 Professor Li Chongyi of Nankai University and his collaborators at Nanyang Technological University manipulated the ICLR 2024 paper review system to give their own papers disproportionately high scores.
 南开大学李重仪教授及其在南洋理工大学的合作者利用ICLR 2024的论文审稿系统，给自己的论文打了不成比例的高分。
 
+![image](https://github.com/user-attachments/assets/1efc92fd-b8e1-4ec3-a4bb-a99c68d8f7d4)
+
+![image](https://github.com/user-attachments/assets/d579c516-56a1-4c85-aa34-8eab3333d054)
+
+This egregious violation of academic integrity was uncovered after a series of low-quality papers with unusually high scores drew the attention of the research community.
+Due to the review mechanism of top conferences, this issue would have been difficult to detect, but the quality of their papers was so poor that even Google researchers could not overlook it. They questioned, "How could such garbage papers receive such high scores?" Ultimately, the ICLR committee officially investigated and confirmed the misconduct.
+
+由于顶会审稿机制原因，这件事本来很难查到，但是他们的论文质量实在是太差了，连Google的人都看不下去了，说“这么垃圾的文章居然分那么高？” 最后ICLR组委会官方下场调查实锤。
+这一严重违反学术诚信的行为是在几篇质量低劣但得分异常高的论文引起研究界关注后被揭露的。
+
+（论文网址：https://openreview.net/forum?id=3tjTJeXyA7 ）
+
 This egregious violation of academic integrity was uncovered after a series of low-quality papers with unusually high scores drew the attention of the research community.
 这一严重违反学术诚信的行为是在几篇质量低劣但得分异常高的论文引起研究界关注后被揭露的。
 
