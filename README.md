@@ -1,5 +1,13 @@
 Why ICLR 2025 High-Scoring Papers Are Rejected
 
+This year, ICLR 2025 has seen a dramatic number of high-score paper rejections, shocking the research community.
+
+今年，ICLR 2025出现了大量高分的论文被拒案例，这让研究界感到震惊。
+
+![image](https://github.com/user-attachments/assets/a62d99e6-889d-42c9-894a-07d48cf6a0ef)
+
+
+
 Background
 
 背景
