@@ -13,9 +13,11 @@ Background
 背景
 
 In 2024, a massive academic scandal rocked the artificial intelligence research community.
+
 2024年，一场巨大的学术丑闻震动了人工智能研究界。
 
 Professor Li Chongyi of Nankai University and his collaborators at Nanyang Technological University manipulated the ICLR 2024 paper review system to give their own papers disproportionately high scores.
+
 南开大学李重仪教授及其在南洋理工大学的合作者利用ICLR 2024的论文审稿系统，给自己的论文打了不成比例的高分。咱长得帅就是可以为所欲为。
 
 ![image](https://github.com/user-attachments/assets/0ee8a2d4-3487-4b54-98d3-cd826b9ef5e2)
@@ -34,16 +36,20 @@ Due to the review mechanism of top conferences, this issue would have been diffi
 （论文网址：https://openreview.net/forum?id=3tjTJeXyA7 ）
 
 This egregious violation of academic integrity was uncovered after a series of low-quality papers with unusually high scores drew the attention of the research community.
+
 这一严重违反学术诚信的行为是在几篇质量低劣但得分异常高的论文引起研究界关注后被揭露的。
 
 Even Google researchers expressed outrage, questioning how such poor-quality work could receive such high scores.
+
 甚至连Google的研究人员也对此表示愤怒，质疑为何如此低劣的作品会得到如此高的分数。
 
 The official investigation by the ICLR committee confirmed the misconduct, and actions were taken against the involved individuals.
+
 ICLR组委会的官方调查证实了这一不当行为，并对涉事人员采取了措施。
 
 Nanyang Technological University dismissed those involved, but Nankai University has yet to respond.
-南洋理工大学已将涉事者开除，但南开大学尚未作出回应。
+
+南洋理工大学已将涉事者数人开除，但南开大学尚未作出回应。
 
 New Measures for ICLR 2025
 
