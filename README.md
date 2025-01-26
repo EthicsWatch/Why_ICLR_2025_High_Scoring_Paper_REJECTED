@@ -75,3 +75,6 @@ While the new system may frustrate some researchers, it ultimately serves to uph
 The fallout from the ICLR 2024 scandal has reshaped the review process for 2025, making it more rigorous but still leaving room for debate.
 
 ICLR 2024的丑闻后果重塑了2025年的审稿流程，使其更加严格，但仍然留下了争议的空间。
+
+
+原文来自 https://github.com/pubsys/ReviewSystem?tab=readme-ov-file
